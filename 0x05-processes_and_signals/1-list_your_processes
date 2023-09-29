@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# display the running Process of the current script
+# display the running Process of the script
 
 ps -u
