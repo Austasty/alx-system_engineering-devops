@@ -1,5 +1,5 @@
 #!/bin/bash
-# Find lines containing "bash" in the process list
+# display lines containing "bash" word
 # shellcheck disable=SC2009
 
-ps aux | grep "bash"
+ps aux --forest | grep bash
