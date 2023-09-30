@@ -10,7 +10,8 @@ if [ $i -eq 3 ]
 elif [ $i -eq 7 ]
 	then
         echo "good luck"
-        fi
-echo "Best School"
-(( i++ ))
+else
+	echo "Best School"
+	fi
+	(( i++ ))
 done
