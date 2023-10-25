@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# display the running Process of the script
-
-ps -auxf

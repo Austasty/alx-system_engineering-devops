@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# Display PID and process name
-# containing bash
-pgrep -l bash
